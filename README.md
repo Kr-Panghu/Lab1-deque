@@ -4,7 +4,7 @@ Author: Kangrui Cen
 
 This is a Deque that is implemented manually, whose internal data structure is a **linked list with a linked list**.
 
-The following are the rules for this assignment. (Lab 2)
+The following are the rules for this assignment. (Lab 1)
 
 # Program-Design-and-Data-Structure I/II (2021 Fall & 2022 Spring)
 Course material release page of CS1958/CS1959 for John Class, SJTU. <br>
